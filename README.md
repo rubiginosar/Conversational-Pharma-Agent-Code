@@ -1,4 +1,5 @@
 # conversational-pharma-agent-code
+[![DOI](https://zenodo.org/badge/1078884269.svg)](https://doi.org/10.5281/zenodo.17386801)
 Conversational pharmaceutical assistant using LLMs, RAG, and LangChain. Built as part of a Master’s thesis (Big Data Analytics, USTHB).
 
 # 💊 Conversational Pharmaceutical Assistant using LLMs and RAG
