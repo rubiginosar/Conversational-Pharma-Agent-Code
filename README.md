@@ -1,6 +1,5 @@
-# conversational-pharma-agent-code
 [![DOI](https://zenodo.org/badge/1078884269.svg)](https://doi.org/10.5281/zenodo.17386801)
-Conversational pharmaceutical assistant using LLMs, RAG, and LangChain. Built as part of a Master’s thesis (Big Data Analytics, USTHB).
+**Conversational-Pharma-Agent-Code** contains the full implementation of a conversational agent framework for pharmaceutical operations. It includes source code, pipelines, and evaluation scripts for intent classification, RAG, and dialogue management, supporting automated workflows using LLMs and domain-specific tools.
 
 # 💊 Conversational Pharmaceutical Assistant using LLMs and RAG
 
